@@ -1,2 +1,2 @@
 # GUI_FoxLi_Simulation_of_COIL_Unstable_Resonator
-This Python GUI simulates unstable resonators using the Fox-Li method for COIL systems. It features real-time visualisation of the beam's intensity and phase profiles, with options to choose simulation parameters, misalign the mirrors and load an experimental gain profile. It concludes with a far-field analysis to ensure output beam quality.
+A Python-based graphical user interface (GUI) that uses the Fox-Li method to simulate unstable resonators for COIL systems and displays the intensity and phase profiles of the beams in real time as the iteration goes on. Choose simulation parameters, misalign mirrors, load an experimental gain profile, and perform far-field analysis to assure output beam quality.
