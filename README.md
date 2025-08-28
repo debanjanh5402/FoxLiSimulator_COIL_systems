@@ -95,3 +95,6 @@ The code is organized within a single `FoxLiGUI(QWidget)` class, which manages t
 ## Author
 
 **Debanjan Halder**
+<br>Senior Project Scientist, Industrial Research & Development Unit
+<br>Optics & Photonics Centre
+<br>Indian Institute of Technology Delhi (IIT Delhi)
