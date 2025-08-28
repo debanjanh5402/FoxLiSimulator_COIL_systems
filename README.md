@@ -9,13 +9,7 @@ A Python-baased GUI application for simulating unstable resonator modes using th
 - [About The Project](#about-the-project)
 - [Core Physics Concepts](#core-physics-concepts)
 - [Features](#features)
-- [Built With](#built-with)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage Guide](#usage-guide)
 - [Code Architecture](#code-architecture)
-- [License](#license)
 - [Author](#author)
 
 ---
