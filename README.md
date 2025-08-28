@@ -46,7 +46,7 @@ This is an iterative numerical technique to find the resonant modes of an optica
 ### 2. Angular Spectrum Propagation (`angspec_prop`)
 This method solves the Helmholtz wave equation for beam propagation. It's more accurate than the Fresnel approximation, especially for short propagation distances.
 - The 2D Fourier Transform of the optical field $u(x, y)$ gives its "angular spectrum" $U(f_x, f_y)$. This decomposes the field into a superposition of plane waves.
-- Propagation over a distance $z$ in Fourier space is achieved by multiplying the spectrum by a transfer function, $H(f_x, f_y)$:
+- Propagation over a distance $z$ in Fourier space is achieved by multiplying the spectrum by a transfer function:
 $$H(f_x, f_y) = e^{i z k_z} = \exp\left(i z \sqrt{k^2 - (2\pi f_x)^2 - (2\pi f_y)^2}\right)$$
 - An inverse Fourier Transform of the modified spectrum yields the propagated field $u(x, y, z)$.
 
