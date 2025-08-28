@@ -1,6 +1,4 @@
 # GUI for Simulating Unstable Resonator for High-Power COIL systems
----
----
 
 A Python-baased GUI application for simulating unstable resonator modes using the Fox-Li iterative method for COIL (Chemical Oxygen-Iodine LASER) systems. This tool models the physics of beam propagation inside a laser cavity, including mirror misalignments and, most notably, the ability to import and apply an experimentally derived, non-uniform gain profile.
 
